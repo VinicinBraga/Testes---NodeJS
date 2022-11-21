@@ -19,5 +19,8 @@
   "homepage": "https://github.com/VinicinBraga/Testes-NodeJS#readme",
   "devDependencies": {
     "vitest": "^0.25.2"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3"
   }
 }
